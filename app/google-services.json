@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "84145300788",
+    "firebase_url": "https://beecam3.firebaseio.com",
+    "project_id": "beecam3",
+    "storage_bucket": "beecam3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84145300788:android:f2e8a62cca8cbefa",
+        "android_client_info": {
+          "package_name": "com.google.firebase.beecam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84145300788-8ubij5so0saj4po47gildd38s2puhqb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.beecam",
+            "certificate_hash": "837DE15F765A2A31475B09E636FD72B9ABC06B0F"
+          }
+        },
+        {
+          "client_id": "84145300788-quvh36jljqkiojvad5301bhkbatjgnb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4931ReIuHYa8P95vB6SJePMrEjWQGxjs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84145300788-quvh36jljqkiojvad5301bhkbatjgnb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
